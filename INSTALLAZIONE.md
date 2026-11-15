@@ -71,7 +71,7 @@ questo file altrove, non è stato messo lì da me.
 byte, il codice cambia. Apri PowerShell nella cartella dei download e scrivi:
 
 ```powershell
-Get-FileHash .\LiveryDesigner_v1419_CRIPTATA.exe -Algorithm SHA256
+Get-FileHash .\LiveryDesigner_Setup_1.4.19.exe -Algorithm SHA256
 ```
 
 Deve uscire esattamente:
@@ -113,7 +113,7 @@ Nessun dato sulle tue livree esce dal tuo PC. I progetti restano sul tuo disco.
 
 ## Installazione, passo per passo
 
-1. **Scarica** `LiveryDesigner_v1419_CRIPTATA.exe` dalla
+1. **Scarica** `LiveryDesigner_Setup_1.4.19.exe` dalla
    [pagina delle release](https://github.com/Eticar96/lmu-livery-designer/releases/latest).
 2. **Aprilo**. Compare l'avviso blu: *Ulteriori informazioni* → *Esegui comunque*.
 3. **Conferma** la richiesta di permessi di Windows (è l'installazione in Program Files).
