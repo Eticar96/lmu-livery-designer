@@ -71,19 +71,19 @@ questo file altrove, non è stato messo lì da me.
 byte, il codice cambia. Apri PowerShell nella cartella dei download e scrivi:
 
 ```powershell
-Get-FileHash .\LiveryDesigner_Setup_1.4.20.exe -Algorithm SHA256
+Get-FileHash .\LiveryDesigner_Setup_1.4.21.exe -Algorithm SHA256
 ```
 
 Deve uscire esattamente:
 
 ```
-B7FA3BBBBF3F2E5EBB5D5878C99352A62EB6B2F6AD0E271E49F8EB230E2B2623
+CA27DBA5B590D51803C73126994CE702B732347C26578134577D3CDD9FF966F7
 ```
 
 Se non combacia, **non installarlo** e avvisami.
 
 **3. Guarda chi dichiara di averlo fatto.** Tasto destro sul file → *Proprietà* → *Dettagli*:
-alla voce *Società* leggerai `LiveryDesigner`, alla voce *Versione file* `1.4.20`.
+alla voce *Società* leggerai `LiveryDesigner`, alla voce *Versione file* `1.4.21`.
 
 ---
 
@@ -113,7 +113,7 @@ Nessun dato sulle tue livree esce dal tuo PC. I progetti restano sul tuo disco.
 
 ## Installazione, passo per passo
 
-1. **Scarica** `LiveryDesigner_Setup_1.4.20.exe` dalla
+1. **Scarica** `LiveryDesigner_Setup_1.4.21.exe` dalla
    [pagina delle release](https://github.com/Eticar96/lmu-livery-designer/releases/latest).
 2. **Aprilo**. Compare l'avviso blu: *Ulteriori informazioni* → *Esegui comunque*.
 3. **Conferma** la richiesta di permessi di Windows (è l'installazione in Program Files).
